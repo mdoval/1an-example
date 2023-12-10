@@ -1,0 +1,72 @@
+{
+  "facturas": [
+    {
+      "id": 0,
+      "cliente": "Juan Perez"
+    },
+    {
+      "cliente": "Moncho Lopez",
+      "id": 1
+    },
+    {
+      "cliente": "Gustavito DP",
+      "id": 2
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "facturaId": 0,
+      "descripcion": "Item 1",
+      "precio": 200
+    },
+    {
+      "id": 1,
+      "facturaId": 0,
+      "descripcion": "Item 2",
+      "precio": 300
+    },
+    {
+      "descripcion": "Item1 ",
+      "precio": 13,
+      "facturaId": 1,
+      "id": 2
+    },
+    {
+      "descripcion": "Item 2",
+      "precio": 299,
+      "facturaId": 1,
+      "id": 3
+    },
+    {
+      "descripcion": "Item 3",
+      "precio": 299,
+      "facturaId": 1,
+      "id": 4
+    },
+    {
+      "descripcion": "Item 2",
+      "precio": 299,
+      "facturaId": 1,
+      "id": 5
+    },
+    {
+      "descripcion": "Item 3",
+      "precio": 299,
+      "facturaId": 1,
+      "id": 6
+    },
+    {
+      "descripcion": "Esto es una prueba 1",
+      "precio": 200,
+      "facturaId": 2,
+      "id": 7
+    },
+    {
+      "descripcion": "Esto es una segunda prueba",
+      "precio": 200,
+      "facturaId": 2,
+      "id": 8
+    }
+  ]
+}
